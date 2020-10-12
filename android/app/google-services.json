@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687764279773",
+    "firebase_url": "https://fir-ml-641e1.firebaseio.com",
+    "project_id": "fir-ml-641e1",
+    "storage_bucket": "fir-ml-641e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687764279773:android:fd2bb416dbb6d286be6634",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ml_text_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687764279773-jro53n6ebsuo25ajpgi83sc83i4u4eeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD164JZlTEAIHQJ_V2rx9KQwoMtFT7pwQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687764279773-jro53n6ebsuo25ajpgi83sc83i4u4eeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
